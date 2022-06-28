@@ -1,0 +1,1 @@
+This is going to be scala project mainly demonstrating new features in scala 3.
